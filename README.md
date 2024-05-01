@@ -36,10 +36,11 @@ Nếu bạn muốn đóng góp vào dự án, bạn có thể làm theo các bư
 5. Push nhánh (`git push origin feature/new-feature`).
 6. Tạo một Pull Request.
 
+
 ## Tác giả
 
-Dự án được phát triển bởi [BuiDiep]. Mọi đóng góp và ý kiến đóng góp từ cộng đồng đều được hoan nghênh.
-## Tác giả
+Dự án được phát triển bởi **BuiDiep**. Mọi đóng góp và ý kiến đóng góp từ cộng đồng đều được hoan nghênh.
 
-Dự án được phát triển bởi [https://web.facebook.com/buidiep01/]. Mọi đóng góp và ý kiến đóng góp từ cộng đồng đều được hoan nghênh.
+### Liên hệ [https://web.facebook.com/buidiep01/]
+
 
