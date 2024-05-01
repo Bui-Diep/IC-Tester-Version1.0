@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/uart_controller_tx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/uart_controller_rx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/fifo_tx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/fifo_rx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/delay.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/decoder.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/baud_rate_generator.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/uart_controller.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/top_decoder.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/sampling_frequency.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/gui_fifo_tx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/doc_fifo_rx.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/debounce_btn.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/lcd.vhd"
+vhdl xil_defaultlib  "../../../uart_debug.srcs/sources_1/imports/uart_new/top_com.vhd"
+
+# Do not sort compile order
+nosort

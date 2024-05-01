@@ -1,0 +1,31 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/uart_controller_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity uart_controller_tx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/uart_controller_rx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity uart_controller_rx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/fifo_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fifo_tx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/fifo_rx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fifo_rx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/delay.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity delay
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/baud_rate_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity baud_rate_generator
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/uart_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity uart_controller
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/top_decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top_decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/sampling_frequency.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sampling_frequency
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/gui_fifo_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gui_fifo_tx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/doc_fifo_rx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity doc_fifo_rx
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/debounce_btn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity debounce_btn
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/lcd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lcd
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/top_com.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top_com
+WARNING: [VRFC 10-280] actual for formal port btn is neither a static name nor a globally static expression [D:/Projects Vivado/uart_debug/uart_debug.srcs/sources_1/imports/uart_new/top_com.vhd:206]

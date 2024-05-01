@@ -1,0 +1,31 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: X:/Vivado_15.2/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto 1ace430777254e9b9b80dac46ddd9f6e --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot top_com_behav xil_defaultlib.top_com -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.debounce_btn [debounce_btn_default]
+Compiling architecture arch of entity xil_defaultlib.baud_rate_generator [\baud_rate_generator(9,163)\]
+Compiling architecture arch of entity xil_defaultlib.uart_controller_rx [\uart_controller_rx(8,16)\]
+Compiling architecture arch of entity xil_defaultlib.fifo_rx [\fifo_rx(8,6)\]
+Compiling architecture arch of entity xil_defaultlib.uart_controller_tx [\uart_controller_tx(8,16)\]
+Compiling architecture arch of entity xil_defaultlib.fifo_tx [\fifo_tx(8,6)\]
+Compiling architecture behavioral of entity xil_defaultlib.uart_controller [\uart_controller(8,16,163,9,6)\]
+Compiling architecture behavioral of entity xil_defaultlib.doc_fifo_rx [doc_fifo_rx_default]
+Compiling architecture behavioral of entity xil_defaultlib.gui_fifo_tx [gui_fifo_tx_default]
+Compiling architecture behavioral of entity xil_defaultlib.sampling_frequency [\sampling_frequency(100)\]
+Compiling architecture behavioral of entity xil_defaultlib.delay [\delay(10)\]
+Compiling architecture rtl of entity xil_defaultlib.decoder [decoder_default]
+Compiling architecture rtl of entity xil_defaultlib.top_decoder [\top_decoder(20,10)\]
+Compiling architecture behavioral of entity xil_defaultlib.lcd [lcd_default]
+Compiling architecture rtl of entity xil_defaultlib.top_com
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot top_com_behav
