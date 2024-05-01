@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/power.png</file>
+        <file>resources/setting.png</file>
+        <file>resources/home.png</file>
+        <file>resources/SoftwareIcon.png</file>
+        <file>resources/HuongDan.png</file>
+        <file>resources/KiemTra.png</file>
+        <file>resources/LienHe.png</file>
+        <file>resources/TaoThuVien.png</file>
+        <file>resources/XemLichSu.png</file>
+        <file>resources/XemThuVien.png</file>
+        <file>resources/Face.png</file>
+        <file>resources/Tele.png</file>
+        <file>resources/Find.png</file>
+        <file>resources/IC14.png</file>
+        <file>resources/IC16.png</file>
+        <file>resources/IC20.png</file>
+        <file>resources/Git.png</file>
+        <file>resources/SoftwareIcon.ico</file>
+        <file>resources/ChuThichPin.png</file>
+    </qresource>
+    <qresource prefix="/document">
+        <file>Readme/HuongDan.txt</file>
+    </qresource>
+    <qresource prefix="/library"/>
+</RCC>
