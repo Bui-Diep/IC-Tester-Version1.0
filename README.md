@@ -1,4 +1,13 @@
 # Thiết bị Kiểm tra Linh kiện Điện tử Số
+## 3D and 2D images :
+<img align="left" alt="altium_3D" width="335x" src="https://private-user-images.githubusercontent.com/102669394/327177382-6b34b6d2-e77e-45a7-8a3f-6db9a56c9885.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1ODE5NDIsIm5iZiI6MTcxNDU4MTY0MiwicGF0aCI6Ii8xMDI2NjkzOTQvMzI3MTc3MzgyLTZiMzRiNmQyLWU3N2UtNDVhNy04YTNmLTZkYjlhNTZjOTg4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwMVQxNjQwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzIxYmQ3NmUxYWRiNGJhNzVjZDQxNTcxYzViMGZhY2E5YWIxNGYyYmM4ODExYTUyMmU5ODc4ZjAzMzU3ZjUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QzbYLBV_mbcYEDRFYb7q8mNQrlelAi8f3kzvfwPQ_rs" />
+<img align="left" alt="altium_2D" width="340px" src="https://user-images.githubusercontent.com/102669394/217010967-f6153172-c8a9-4451-846d-17226d63ffd6.png" />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
+<br /><br /><br /><br />
+
+## Schematic : 
+<img align="" alt="altium_sche" width="700px" src="https://user-images.githubusercontent.com/102669394/217011294-3d675f5d-6e1b-4a81-9248-12025e2929cc.png" />
 
 ## Giới thiệu
 
