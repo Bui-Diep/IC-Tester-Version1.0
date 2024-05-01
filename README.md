@@ -21,7 +21,7 @@ Thiết bị Kiểm tra Linh kiện Điện tử Số là một dự án nhằm 
 
 Để bắt đầu sử dụng thiết bị, bạn có thể làm theo các bước sau:
 
-1. **Cài đặt Phần mềm:** Tải về và cài đặt phần mềm kiểm tra từ [repository trên GitHub]((https://github.com/Bui-Diep/IC-Tester-Version1.0)).
+1. **Cài đặt Phần mềm:** Tải về và cài đặt phần mềm kiểm tra từ [https://github.com/Bui-Diep/IC-Tester-Version1.0].
 2. **Kết nối thiết bị:** Kết nối thiết bị với máy tính sử dụng cáp kết nối phù hợp.
 3. **Chạy kiểm tra:** Mở phần mềm và thực hiện kiểm tra linh kiện.
 
@@ -39,3 +39,7 @@ Nếu bạn muốn đóng góp vào dự án, bạn có thể làm theo các bư
 ## Tác giả
 
 Dự án được phát triển bởi [BuiDiep]. Mọi đóng góp và ý kiến đóng góp từ cộng đồng đều được hoan nghênh.
+## Tác giả
+
+Dự án được phát triển bởi [https://web.facebook.com/buidiep01/]. Mọi đóng góp và ý kiến đóng góp từ cộng đồng đều được hoan nghênh.
+
