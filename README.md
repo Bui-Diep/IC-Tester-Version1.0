@@ -14,7 +14,7 @@ Thiết bị Kiểm tra Linh kiện Điện tử Số là một dự án nhằm 
 
 ## Chức năng
 
-- **Phát hiện IC lỗi:** Thiết bị có khả năng phát hiện các lỗi trong các loại IC như TTL 74/54, CMOS 40/45, IC Nga 133 và SelfTest.
+- **Phát hiện IC lỗi:** Thiết bị có khả năng phát hiện các lỗi trong các loại IC như TTL 74/54, CMOS 40/45, IC Nga 133/134/136 và SelfTest.
 - **Thông báo vị trí lỗi:** Sau khi phát hiện được lỗi, thiết bị sẽ thông báo vị trí cụ thể của lỗi, giúp người dùng xác định và sửa chữa nhanh chóng.
 - **Tương thích với nhiều loại IC:** Thiết bị có khả năng kiểm tra các loại IC phổ biến và được sử dụng rộng rãi trong các ứng dụng điện tử.
 
